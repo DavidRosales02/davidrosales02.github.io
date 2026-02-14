@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: David's homepage
 description: Bookmark this to keep an eye on my project updates!
 url: http://davidrosales02.github.io
-baseurl: /README.md
+baseurl: /README
