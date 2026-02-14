@@ -1,6 +1,6 @@
 # David Rosales's Website
 ## My personal GitHub page project
-![A cute little picture of me](/images/Selfie.png|200)
+<img src="https://github.com/DavidRosales02/davidrosales02.github.io/blob/main/images/Selfie.png" alt="A cute picture of me if it ever wants to load!" width="250" height="300">
 
 ## Interests
 
