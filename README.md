@@ -12,6 +12,6 @@
 ## Goals
 
 - Finish school at Boise State University
-- Figure out what I want to do with my CS degreee once I get it
+- Figure out what I want to do with my CS degree once I get it
 - Possibly re-enlist in the Army Reserve.
 
