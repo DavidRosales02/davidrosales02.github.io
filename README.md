@@ -6,3 +6,12 @@
 
 - Video games
 - Guitar
+- Recreational shooting
+- Living life to the fullest!
+
+## Goals
+
+- Finish school at Boise State University
+- Figure out what I want to do with my CS degreee once I get it
+- Possibly re-enlist in the Army Reserve.
+
